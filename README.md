@@ -1,0 +1,1 @@
+# kural_tabanli_siniflandirma_ile_potansiyel_musteri_getirisi
